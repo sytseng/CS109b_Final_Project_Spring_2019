@@ -1,4 +1,5 @@
 # CS109b Final Project: Microbiome Dynamics
+Note this is a clone of the [original repository](https://github.com/euniceyeh/CS109b-Project). 
 
 ### Introduction
 - This is a final project for the Spring 2019 course in [Data Science II](https://harvard-iacs.github.io/2019-CS109B) (CS109B) at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://iacs.seas.harvard.edu).
